@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         </h1>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="https://www.relocify.nl" className={styles.card}>
             <h2>Relocify &rarr;</h2>
             <p>Employee relocation service</p>
           </a>
